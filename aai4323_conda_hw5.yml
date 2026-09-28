@@ -1,0 +1,33 @@
+name: aai4323_hw5
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+
+  # Required pinned versions
+  - numpy=1.26.4
+  - pandas=2.1.4
+
+  # Jupyter ecosystem
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - notebook
+  - nbconvert
+  - nbformat
+  - jupyter_client
+  - jupyter_core
+
+  # Visualization
+  - matplotlib
+
+  # Utilities
+  - tqdm
+  - psutil
+  - requests
+  - python-dateutil
+  - pyyaml
+  - joblib
+  - cloudpickle
