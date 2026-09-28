@@ -26,6 +26,7 @@ dependencies:
   # Utilities
   - tqdm
   - python-dotenv
+  - tabulate
   - psutil
   - requests
   - python-dateutil
