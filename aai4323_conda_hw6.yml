@@ -1,4 +1,4 @@
-name: aai4323_hw5
+name: aai4323_hw6
 channels:
   - conda-forge
   - defaults
@@ -25,6 +25,7 @@ dependencies:
 
   # Utilities
   - tqdm
+  - dotenv
   - psutil
   - requests
   - python-dateutil
