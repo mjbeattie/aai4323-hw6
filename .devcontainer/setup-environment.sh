@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+set -x
 set -e
 
 echo "Creating or updating the AAI4323_HW6 Conda environment..."
