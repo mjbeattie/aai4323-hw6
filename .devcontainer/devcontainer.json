@@ -4,7 +4,7 @@
     "features": {
         "ghcr.io/devcontainers/features/github-cli:1": {}
     },
-    "postCreateCommand": "/usr/bin/env bash .devcontainer/setup-environment.sh",
+    "postCreateCommand": "bash .devcontainer/setup-environment.sh",
     "customizations": {
         "vscode": {
             "extensions": [
