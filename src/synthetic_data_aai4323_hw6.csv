@@ -1,0 +1,101 @@
+last_name,first_name,ssn,street_address,city,state,zipcode,birth_date,income,monthly_expenses,race,job_category
+Daniel,Douglas,972-33-4383,4108 Julie Islands,Jonesstad,NJ,66874,1967-09-17,101256,5257.94,White,Hospitality
+Hernandez,Brooke,322-76-7747,4509 Hooper Village Apt. 786,Reedhaven,AR,66871,1967-09-26,141857,6363.02,Asian,Transportation
+Moreno,Kelly,254-72-2337,616 Kellie Trace Suite 600,Simonhaven,UT,16648,1980-04-24,51197,2446.27,American Indian or Alaska Native,Education
+Arnold,Tyler,561-16-5735,961 Tonya Trafficway,West Angela,NV,74069,1976-05-11,130285,5366.17,American Indian or Alaska Native,Healthcare
+Crawford,Robert,194-81-8769,829 Smith Cliff,Myerstown,CO,51994,1948-03-08,91893,2621.76,Asian,Technology
+Greer,Kristina,243-35-7761,17050 Torres Hill,Penningtonshire,CO,35392,1992-10-10,77451,4406.21,Black or African American,Healthcare
+Smith,Leslie,454-79-4791,621 Diana Camp,Macdonaldhaven,DC,08585,1947-03-29,143576,6577.97,White,Hospitality
+Snow,Amber,527-90-7859,9801 Velasquez Garden,Ashleyville,UT,44362,1963-11-01,100947,5306.88,Native Hawaiian or Other Pacific Islander,Hospitality
+Leach,Kim,981-85-1530,362 Heather Field Suite 747,Lopezhaven,IN,93375,1967-02-09,97075,3584.6,Black or African American,Transportation
+White,David,667-77-5509,71932 Stephens Prairie Suite 749,East Amandastad,NM,75803,1966-08-27,46836,1567.35,Black or African American,Healthcare
+Martin,Ryan,687-17-9374,566 Olivia Alley Apt. 378,Port Mark,MN,19175,2004-02-25,79051,2217.55,American Indian or Alaska Native,Technology
+Mcknight,Shelby,498-21-3798,5796 Aaron Terrace Apt. 034,Joshualand,VA,30561,1998-05-27,36953,1496.02,Native Hawaiian or Other Pacific Islander,Hospitality
+Crosby,Jessica,883-14-1752,5861 Keith Rue,Clineview,NM,18624,1974-01-14,125305,6607.15,Asian,Transportation
+Phillips,Michael,665-94-8005,45116 Gary Plaza Suite 901,New Danielleshire,GU,71794,1989-06-25,75192,2423.59,Black or African American,Retail
+Rodriguez,Eric,356-61-5994,6204 Tracy Trail Apt. 604,Donaldhaven,DC,72720,2004-01-22,70496,2603.24,Asian,Hospitality
+Trujillo,Christina,262-11-5059,350 Solomon Hill Suite 795,Pattersonside,VA,27653,1998-08-28,143845,3751.95,Asian,Finance
+Mann,Brittany,723-96-7046,836 Li Vista Suite 511,Port Victor,AL,07597,1961-06-14,68531,3450.75,White,Construction
+Cochran,Wendy,892-55-5478,64842 Jillian Field Apt. 028,Leahberg,VT,73998,1967-10-21,64442,2550.4,American Indian or Alaska Native,Technology
+Price,Kaitlyn,332-80-3069,3402 Serrano Views,Calebshire,MS,47924,1959-07-23,121063,3088.88,White,Manufacturing
+Williams,Amanda,842-96-7376,183 Nelson Haven Suite 127,New Emily,IN,72774,1952-12-08,62384,2403.91,Two or More Races,Healthcare
+Turner,Joseph,922-11-7146,720 Chase Mountains,South Rebeccaside,CT,62226,1947-07-27,40072,1928.73,Two or More Races,Technology
+Brown,Dakota,464-11-3566,008 Morgan Fords Apt. 886,East Terry,NJ,76468,1967-12-07,112765,3238.47,Black or African American,Finance
+Mcguire,Elizabeth,679-70-4459,0480 Martin Causeway,West Sandra,WV,30211,1950-10-12,85591,3485.77,Native Hawaiian or Other Pacific Islander,Hospitality
+Hill,Mary,652-20-6875,93552 Thomas Neck,Davidtown,KY,68163,1967-03-08,103627,3540.79,White,Finance
+Mooney,Stephen,980-29-3177,15004 Willis Forks,Stephanieton,MT,95363,1957-06-07,89009,3624.79,Native Hawaiian or Other Pacific Islander,Government
+Griffith,Joseph,419-68-1955,499 Tanya Neck,South Aaron,ME,38047,1957-07-14,59211,2440.14,American Indian or Alaska Native,Healthcare
+Greene,James,319-28-1342,585 Rose Oval Apt. 108,Stevenville,WY,30166,1961-07-29,123944,3692.29,Asian,Construction
+Jensen,Sara,422-82-6636,02429 Sharon Forges Apt. 541,Jessicafurt,MO,75628,1966-07-16,141928,7824.05,Black or African American,Construction
+Stein,Kim,849-64-7488,088 Tony Via,Hinestown,NV,20684,1988-09-04,42633,1276.73,White,Government
+Smith,Catherine,708-19-4930,4285 Hall Prairie,Sherrimouth,SD,46430,1980-10-11,98033,3907.25,Black or African American,Construction
+Sexton,John,370-85-4030,38625 Hess Port Apt. 943,New Heather,MD,87166,1952-08-31,119030,4807.58,Asian,Retail
+Hull,Caitlin,776-82-9837,84743 Devin Dale,Brownville,TX,98120,1973-12-17,34957,1706.69,Two or More Races,Manufacturing
+Medina,Brent,473-75-7015,855 Hernandez Trail,Port Sarah,FL,61103,1979-09-10,59433,1834.31,Asian,Transportation
+Briggs,Donald,150-25-3806,599 Murillo Parks,Lake Walter,MA,96699,1946-08-18,100503,3844.4,American Indian or Alaska Native,Education
+Fox,Brenda,917-64-2375,8816 Stacey Mission Apt. 293,New Christina,WI,04001,1955-08-26,64459,2124.65,White,Technology
+Suarez,Joanne,177-93-8761,5160 Simpson Meadow Apt. 517,Alexiston,CO,33538,2007-03-30,36856,1611.72,Native Hawaiian or Other Pacific Islander,Healthcare
+Charles,Tiffany,297-63-4913,34750 Grant Mount,Howellfort,WI,87015,1983-02-25,87521,4460.08,Asian,Education
+Thomas,David,111-28-9930,91876 Daniel Garden,South Makaylaview,IL,90447,1960-06-17,132693,4837.04,Native Hawaiian or Other Pacific Islander,Construction
+Johnson,Rebecca,405-68-6044,3527 Claudia Glen,Port Katieborough,MO,35307,1997-03-13,48469,1863.67,Two or More Races,Hospitality
+Medina,Michael,837-95-6842,23948 Jasmine Fields Apt. 195,Wardmouth,DC,90317,2004-01-17,120541,4169.72,Black or African American,Transportation
+Lee,Ryan,558-89-2549,881 Short Rue Suite 480,East Justin,MD,11022,1958-11-14,92478,3389.44,Native Hawaiian or Other Pacific Islander,Government
+Abbott,Vincent,770-46-3655,5917 Morgan Ways,Josephview,TN,29347,2003-07-30,76529,2500.1,American Indian or Alaska Native,Government
+Randall,April,212-66-8066,4678 Troy Avenue,Jeffborough,ME,66954,2005-02-22,116578,3497.35,Asian,Government
+Rush,Robert,854-23-5438,119 Jane Junctions Suite 296,New Frankmouth,OK,02265,1973-10-30,146098,5602.87,American Indian or Alaska Native,Retail
+Washington,Andrew,913-72-9814,4639 Edward Tunnel,Port Timothyshire,PA,00959,2001-02-05,34452,1495.43,Asian,Manufacturing
+Rodriguez,Collin,915-93-2937,031 Harrington Plaza Apt. 226,Brianberg,IA,58143,1967-01-04,63315,2671.69,Native Hawaiian or Other Pacific Islander,Retail
+Diaz,Kristy,893-56-2371,785 Mcgrath Pike Suite 471,Jacquelineborough,NY,52690,1978-06-21,138056,7913.57,American Indian or Alaska Native,Healthcare
+Acosta,Tracy,612-94-1247,97997 Quinn Streets,Craighaven,IA,80280,2007-02-13,58477,2502.2,Native Hawaiian or Other Pacific Islander,Manufacturing
+Hicks,Jennifer,812-35-4041,800 Powell Field Suite 387,Stevenburgh,AR,45418,1993-05-17,138039,4719.97,American Indian or Alaska Native,Finance
+Mccullough,Robert,309-54-1483,379 Sanford Mount Suite 938,West Matthewton,LA,87213,1995-06-28,128608,3487.31,American Indian or Alaska Native,Finance
+Cooke,Marc,394-50-7178,95716 John Crossing Suite 717,Nobleport,CA,15032,1956-01-05,65108,3642.06,White,Manufacturing
+Stephens,Michelle,646-28-2163,8634 Tran Hills,Port Amanda,AS,19099,1965-09-18,68749,2650.2,Black or African American,Education
+Khan,Eric,851-43-7038,3976 Ashley Gardens Apt. 563,North Timothyburgh,FL,84103,1967-03-10,45817,1942.42,American Indian or Alaska Native,Manufacturing
+Nixon,Julie,368-81-1662,80055 Phillips Brooks,Heathermouth,PW,32634,2004-06-18,35235,1167.4,White,Hospitality
+Perez,Laura,772-29-4428,2730 Sara Place,Lake Johnnystad,MO,22037,1984-01-20,73456,3537.07,Native Hawaiian or Other Pacific Islander,Technology
+Allen,Herbert,190-91-3115,2204 Sarah Throughway Apt. 011,North Gregoryhaven,UT,28594,1953-12-23,74623,3960.92,American Indian or Alaska Native,Hospitality
+Rodriguez,Johnny,219-82-4779,052 Stephanie Freeway,Milesstad,AR,00856,1986-05-23,36486,1427.9,Black or African American,Hospitality
+Fernandez,Amy,741-29-8533,229 Alexis Village,North Sabrinaberg,CO,40807,1996-10-12,134020,6025.95,American Indian or Alaska Native,Government
+Hernandez,Justin,475-92-2650,864 Christopher Ports,East Claytonmouth,PA,96103,1952-10-10,113967,6472.86,White,Transportation
+Austin,Amy,792-64-9695,289 Kathleen Turnpike Apt. 954,Wardport,IA,62421,1947-08-04,49219,2539.0,Asian,Government
+Bailey,Stacy,894-24-4206,5013 Austin Plaza Apt. 185,New Melanie,WY,62628,1972-04-13,148133,7927.94,Native Hawaiian or Other Pacific Islander,Hospitality
+Thomas,Mark,384-69-1499,835 Stafford Loop,South Rachel,KS,86199,1986-04-11,116428,4708.36,Black or African American,Retail
+Hurst,Bryan,902-84-7565,3685 Christopher Cliffs Apt. 244,New Katherinebury,AS,05246,1975-03-15,104112,2713.5,White,Transportation
+Myers,Bailey,531-95-5856,139 Lane Lane Suite 719,Port Spencer,WA,80742,1973-08-15,139585,4030.14,Black or African American,Retail
+Cook,David,179-92-5055,642 Travis Locks,Melissamouth,OK,19419,1946-04-30,130073,6714.33,Two or More Races,Healthcare
+Sullivan,Robert,915-15-5250,267 Watkins Estate,North Scottside,LA,59835,1946-11-24,88578,4415.65,White,Manufacturing
+Smith,Patricia,341-13-8204,1818 Robert Mews Suite 310,Christinamouth,AS,51531,1994-12-12,52227,1741.61,Native Hawaiian or Other Pacific Islander,Healthcare
+Cooke,Edward,514-83-5453,1370 Joshua Parkways,Jenkinsmouth,GA,08528,1976-11-08,43862,1674.36,Two or More Races,Transportation
+Pratt,Christy,119-68-2607,48819 Lyons Summit Suite 846,Lake Jacksonland,ME,65468,1973-09-24,137766,5903.15,Two or More Races,Transportation
+Torres,Melissa,499-31-8928,1549 Peters Streets,Sampsonside,NM,49775,1960-04-03,119728,3014.97,Two or More Races,Government
+Black,Holly,488-69-2797,3573 Edwards Garden,South Stephen,OR,20907,1991-02-24,109060,5965.33,Two or More Races,Transportation
+Phillips,Emma,548-97-6022,9632 Smith Valleys,Nelsonfort,TX,81256,1968-03-15,81320,3455.36,Two or More Races,Healthcare
+Liu,Marissa,266-52-9297,87835 Brittney Cape Suite 438,Myersland,NM,78144,1949-01-12,86049,4081.49,American Indian or Alaska Native,Technology
+Sexton,Debbie,324-28-1072,79244 Brown Oval,Kingbury,WV,69427,1991-01-16,97818,2955.9,Black or African American,Manufacturing
+Thomas,Jesse,579-99-5346,164 Kurt Landing Apt. 582,Henrymouth,ND,10972,1974-07-26,37809,2009.7,White,Technology
+Mejia,Robert,213-12-9756,72267 Caroline Locks,New Coleshire,MH,93021,1963-10-13,52544,1499.92,Native Hawaiian or Other Pacific Islander,Transportation
+Martinez,Scott,673-11-7278,0157 Howe Ports,Camposmouth,GU,01290,1976-09-16,55048,2456.1,Asian,Hospitality
+Reynolds,Peggy,416-64-7207,0073 Douglas Course,Allentown,FL,30463,2002-06-05,114924,3090.6,Black or African American,Healthcare
+Fry,William,626-91-4787,52032 Miller Junction,South Jennifer,FM,74167,1967-04-27,136370,5962.49,Asian,Technology
+Stewart,Tammy,290-58-8561,6044 Newton Curve Suite 550,Jarvisburgh,AS,71402,1950-01-15,62106,2953.0,Native Hawaiian or Other Pacific Islander,Construction
+Roth,Tammy,653-34-2357,352 Julie Mill Apt. 183,West Annaview,MS,97888,1980-10-18,41188,1575.27,Native Hawaiian or Other Pacific Islander,Manufacturing
+Stewart,Sandra,446-26-3347,7959 Stephanie Street Suite 499,Shannonview,WI,62681,1954-03-19,146678,4893.52,White,Construction
+Cain,Diane,712-93-7528,36411 Valerie Manors Suite 601,New Johnfort,CT,68028,1950-11-09,81613,4016.42,Native Hawaiian or Other Pacific Islander,Healthcare
+Hall,Andrew,394-26-7343,3853 Cathy Rapid Apt. 412,New Claudia,NE,59376,1957-07-16,133848,7048.69,Native Hawaiian or Other Pacific Islander,Manufacturing
+Bowman,Christopher,501-66-5931,697 Stacie View Suite 232,Lake Brendaberg,AR,08056,1952-08-13,80801,2961.05,Two or More Races,Healthcare
+Wood,Sarah,192-43-3377,92700 Elizabeth Ville Apt. 768,North Brandi,DC,63270,1987-12-03,128271,3669.08,Asian,Technology
+Sullivan,John,473-30-7744,8386 Andrew Ford,Garciashire,DC,49809,2002-07-21,93299,3662.73,Asian,Hospitality
+Dalton,Robert,323-74-5822,53891 Barbara Tunnel,Muellerside,AK,91424,1983-06-02,68637,3377.41,White,Construction
+Diaz,Melanie,849-34-2164,249 Hardin Cove Suite 428,Daymouth,MN,20270,1972-12-25,131418,7327.09,Black or African American,Education
+Carlson,Michaela,517-72-4025,58239 Monica Radial Apt. 916,Lake Tammymouth,SC,26995,1960-04-02,136077,3628.73,Asian,Retail
+Harris,Maria,629-71-7625,987 Stephen Fields,Lake Stacey,MS,79396,1975-01-23,146238,6773.23,Two or More Races,Retail
+Johnson,Mackenzie,758-50-1251,97787 William Square,Brownport,NJ,13753,1958-07-21,124488,3658.43,American Indian or Alaska Native,Manufacturing
+Evans,Jennifer,249-84-9700,2995 Levy Estates,Samuelberg,FM,40364,1979-03-06,125873,4209.37,Two or More Races,Manufacturing
+Ellis,Alejandra,710-34-5175,37142 Eric Skyway,South Susanbury,NV,89578,1961-02-11,128686,3655.79,Two or More Races,Hospitality
+Boone,Andre,386-32-8720,251 John Cape Suite 048,Johnsonton,MD,82079,1951-08-30,105813,3637.85,American Indian or Alaska Native,Transportation
+Odom,Eric,240-77-6813,197 Gabriel Stream,New Christina,WV,99081,1974-12-02,51224,2971.06,American Indian or Alaska Native,Hospitality
+Summers,Andrew,875-38-2444,5045 Donna Mountain Suite 838,Rayland,OK,29300,2006-07-15,113808,3830.84,American Indian or Alaska Native,Finance
+Bradley,Beth,236-14-7310,7249 Jennifer Freeway Suite 721,Lake Lauren,PW,48422,1975-08-07,110645,4659.76,American Indian or Alaska Native,Government
+Mendoza,Jason,282-33-2078,5344 Lauren Forges Suite 323,Port Barbara,CA,25771,1985-11-02,47261,2268.75,White,Transportation
+Grimes,Zachary,155-18-5145,12526 Joseph Center,Christianburgh,MD,67455,2003-02-27,39778,2003.09,Black or African American,Healthcare
