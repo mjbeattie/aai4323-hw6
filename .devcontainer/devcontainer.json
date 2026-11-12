@@ -1,5 +1,5 @@
 {
-    "name": "AAI4323 Python Environment",
+    "name": "AAI4323 HW6 Python Environment",
     "image": "mcr.microsoft.com/devcontainers/miniconda:latest",
     "features": {
         "ghcr.io/devcontainers/features/github-cli:1": {}
@@ -12,7 +12,7 @@
                 "ms-toolsai.jupyter"
             ],
             "settings": {
-                "python.defaultInterpreterPath": "/opt/conda/envs/aai4323/bin/python",
+                "python.defaultInterpreterPath": "/opt/conda/envs/aai4323_hw6/bin/python",
                 "python.terminal.activateEnvironment": true,
                 "terminal.integrated.defaultProfile.linux": "bash",
                 "terminal.integrated.profiles.linux": {
